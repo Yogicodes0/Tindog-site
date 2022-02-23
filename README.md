@@ -1,2 +1,1 @@
-# Tindog-site
-beginner-level
+TinDog Starting Files
